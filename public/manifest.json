@@ -1,15 +1,74 @@
-{
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
-}
+[
+  {
+    "id": 1,
+    "name": "Candy Land",
+    "image": "http://i299.photobucket.com/albums/mm292/RedMonkey1979/BLOG2018/Candy%20Land/CandyLand_zpsutuvrvrm.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Yahtzee",
+    "image": "https://cf.geekdo-images.com/itemrep/img/VF2khVBfVEml85bAKFF3MWuyLh0=/fit-in/246x300/pic378237.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Sequence",
+    "image": "https://cdn.unifiedcommerce.com/content/product/large/Sequence_setup.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Clue",
+    "image": "http://bronxvillelibrary.org/wp-content/uploads/clue1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Uno",
+    "image": "https://localtvwqad.files.wordpress.com/2018/01/uno.png?w=300&h=225&crop=1",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Monopoly",
+    "image": "https://ronefoxync.files.wordpress.com/2014/03/monopoly-box2.jpg?w=300&quality=80&strip=all&h=202",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Risk",
+    "image": "https://cdn-images-1.medium.com/max/1200/1*leQsT43ge-lg8JUgcds02g.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Phase 10",
+    "image": "https://lh3.googleusercontent.com/j-W3cowUAvPVjxgrVMhhhL_BKQOxh59_nUOJRRnS8GNwuRPyVo41Es64ndWlDo9EQFHJ=w412-h220-rw",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Trivial Pursuit",
+    "image": "http://isource.com/wp-content/uploads/2009/06/splash.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Rummikub",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYsiBiXZzN6RmtUpN6kR2roIJuAqg0hFMAj5y2uyOJziZK6dz8Q",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Sorry!",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfAkuM7V2erV16B8O_u9M0MiLoivdDggZF55Y_8XPhMtI35HVk",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Life",
+    "image": "https://cf.geekdo-images.com/itemrep/img/Co3QjBwNnR1orZZU2gHUeS3sLbw=/fit-in/246x300/pic288405.jpg",
+    "clicked": false
+  }
+]
