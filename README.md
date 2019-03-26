@@ -1,3 +1,31 @@
+# Clicky-Game
+Clicky-Game is a web app that uses React for a memory based game. The score will continue to increase until the user clicks an image twice. Every time an image is clicked it shuffles. The game also keeps track of your high score. 
+
+## Known Issues & Areas to Improve Upon
+    * There is a bug with the counter and/or the high score tracker. It sometimes skips to a higher number than it is supposed to be.
+    * Images do not nicely line up, need to improve the styiling.  
+
+## Authors
+    * Aileen Flanagan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
